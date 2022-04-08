@@ -1,0 +1,1 @@
+可以由mysql-server/storage/innobase/handler/i_s.cc 中的枚举获取page type
